@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",  // Or "CommonJS" if you're not using ESM
+    "target": "ESNext",  // or "ES6" or "ES2017"
+    "moduleResolution": "Node",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "strict": true
+  },
+  "include": ["src/**/*"]
+}
